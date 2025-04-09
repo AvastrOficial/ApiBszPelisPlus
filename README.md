@@ -2,6 +2,7 @@
 
 **BszPelisPlus** es una plataforma web pensada para ofrecer acceso rápido y gratuito a películas de todos los géneros, sin necesidad de suscripciones, pagos ni publicidad. Si estás buscando un sitio sencillo, funcional y con una gran variedad de contenido cinematográfico, ¡este proyecto es para ti!
 
+📲 **Visita Plataforma Oficial**: [ApiBsz+ Web](https://bszpelisplus.foroactivo.com/h23-apibsz)  
 ---
 
 ## 🚀 ¿Qué es BszPelisPlus?
