@@ -69,5 +69,14 @@ Súmate al canal de Telegram y empieza a disfrutar sin límites:
 - Hosting gratuito basado en archivos `.js`
 
 ---
+### ✅ Ejemplo esencial:
+
+```html
+<!-- Contenedor donde se mostrarán las películas -->
+<div id="peliculasVisualizadas"></div>
+
+<!-- Carga de la librería del género seleccionado (en este caso: Terror) -->
+<script src="https://bszpelisplus.foroactivo.com/14335.js"></script>
+```
 
 ¡Gracias por apoyar este proyecto! Siéntete libre de contribuir, compartir y sugerir nuevas ideas para mejorar **BszPelisPlus**. ❤️
