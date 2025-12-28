@@ -80,4 +80,6 @@ Súmate al canal de Telegram y empieza a disfrutar sin límites:
 <script src="https://bszpelisplus.foroactivo.com/14335.js"></script>
 ```
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/394290e3-e65e-4904-bb70-9f742a215d84/deploy-status)](https://app.netlify.com/projects/bszpelisplus/deploys)
+
 ¡Gracias por apoyar este proyecto! Siéntete libre de contribuir, compartir y sugerir nuevas ideas para mejorar **BszPelisPlus**. ❤️
